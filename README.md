@@ -2,7 +2,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 🔭 I’m currently working at Inexture Solutions<br>👯 I’m looking to collaborate on Freelancing projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about how only solution available for me is brute force
 
-<br>
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@paramdholakia2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/param-dholakia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paramdholakia3@gmail.com) 
