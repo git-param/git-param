@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=git-param&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=git-param&icon=9&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=git-param&icon=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
